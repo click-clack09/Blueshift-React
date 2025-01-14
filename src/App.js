@@ -7,11 +7,8 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <p style={"text-align:center"}>Test Div</p>
+          <div>First React Page!!!</div>
           <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Hello from Render!
-          </p>
           <a
             className="App-link"
             href="https://reactjs.org"
