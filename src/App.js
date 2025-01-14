@@ -5,9 +5,9 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="App bg-yellow-600">
         <header className="App-header">
-          <div className="text-red-500 w-20 h-10 bg-green-300">First React Page!!!</div>
+          <div className="text-red-500">First React Page!!!</div>
           <img src={logo} className="App-logo" alt="logo" />
           <a
             className="App-link"
