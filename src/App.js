@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <div>Test Div</div>
+          <p style={"text-align:center"}>Test Div</p>
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             Hello from Render!
